@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Favorite things 
+* Data Science :sparkle:
+* Psychometrics :smile:
+* Kitty Cats :cat:
