@@ -1,1 +1,1 @@
-![Image of PusheenCat](https://octodex.github.com/pusheencat/)
+[Image of PusheenCat](https://octodex.github.com/pusheencat/)
